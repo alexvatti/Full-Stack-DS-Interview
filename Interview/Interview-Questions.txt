@@ -1,0 +1,41 @@
+Questions Taken from - https://youtu.be/l16Y_wjYbzM
+
+1.	What kind of work is done in an internship/Projects involving ML, NLP, and DL ? Exlain ?
+
+2.	How do you extract data in Python ? Exaplin the ways?
+
+3.	What techniques have you used, such as CNN, LSTM, and Word2Vec?
+
+4.	What parameters are used in CNN, such as SoftMax and Adam optimizer?
+
+5.	What is the role of activation functions in neural networks?
+
+6.	What are the classes used in CNN for multi-class labels, and how is Kaggle label data used?
+
+7.	What are dropout layers in neural networks, specifically in CNN and LSTM?
+
+8.	What is gradient descent, including mini-batch and SGD?
+
+9.	How are Machine Learning and Python related?
+
+10.	Can you describe some machine learning models?
+
+11.	Can you select the model by seeing the data?
+
+12.	When should you use Min-Max scaling versus standardization?
+
+13.	What is the difference between lambda and normal functions in Python?
+
+14.	How do you join or merge dataframes in pandas to only get left parameters? Provide a use case.
+
+15.	What happens when there is a duplicate key in a dictionary?
+
+16.	How is a list different from a set?
+
+17.	How do you find the 62nd percentile in a list of 10 numbers?
+
+18.	What is conditional probability, and how does it differ from probability? Use the example of a die.
+
+19.	If a list has 10 numbers and you add 5 to each value, how do the mean, median, variance, and standard deviation impact? explain?
+
+20.	What is the difference between percentage and percentile? Exaplin with examples?
