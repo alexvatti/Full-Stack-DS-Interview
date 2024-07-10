@@ -1,0 +1,22 @@
+SQL - DS
+
+https://www.youtube.com/playlist?list=PLmPJQXJiMoUV_5CS_iRjOY7lDOI0yQtP4
+
+Servers:
+1. MySQL
+2. MS SQL
+3. ORACLE SQL
+4. POSTGRE SQL
+
+Clinets-Interfaces:
+1. Corresponding CLI
+2. Azure Data Studio
+3. Jupyter Notebook - Python libs - Access the SQL
+
+
+SQL :
+1. DDL - CREATE, ALTER,TRUNCATE,DROP
+2. DML - INSERT, UPDATE,DELETE
+3. DQL - SELECT
+4. TCL - COMMIT, ROLLBACK, SAVEPOINT
+5. DCL - GRANT,REVOKE
