@@ -20,3 +20,57 @@ SQL :
 3. DQL - SELECT
 4. TCL - COMMIT, ROLLBACK, SAVEPOINT
 5. DCL - GRANT,REVOKE
+============================================================================
+
+Here are 50 frequently asked SQL questions:
+
+1. What is SQL?
+2. What are the different types of SQL statements?
+3. What is the difference between `INNER JOIN` and `OUTER JOIN`?
+4. How do you perform a `LEFT JOIN` in SQL?
+5. What is a `PRIMARY KEY` in SQL?
+6. What is the purpose of the `GROUP BY` clause?
+7. How do you use the `HAVING` clause?
+8. What is the difference between `WHERE` and `HAVING`?
+9. How can you filter records in SQL?
+10. What is the difference between `UNION` and `UNION ALL`?
+11. How do you retrieve unique records using SQL?
+12. What is the purpose of the `ORDER BY` clause?
+13. How can you perform a full-text search in SQL?
+14. How do you create an index in SQL?
+15. What are the different types of joins in SQL?
+16. What is normalization? Why is it important?
+17. What are SQL constraints and how are they used?
+18. How do you use subqueries in SQL?
+19. What is a `VIEW` in SQL and how is it used?
+20. How do you handle NULL values in SQL?
+21. What is the difference between `CHAR` and `VARCHAR`?
+22. How can you optimize SQL queries for performance?
+23. What is a `stored procedure` and how do you create one?
+24. What is a `trigger` in SQL?
+25. How do you perform data aggregation in SQL?
+26. What are `common table expressions (CTEs)` and how are they used?
+27. What is the purpose of the `ROLLBACK` command?
+28. How do you use the `EXISTS` operator in SQL?
+29. What is a `transaction` in SQL?
+30. How do you handle errors in SQL stored procedures?
+31. What is the difference between `JOIN` and `UNION`?
+32. How do you update records in a table?
+33. What are `temporary tables` and how are they used?
+34. How do you create and use indexes in SQL?
+35. What is the `AUTO_INCREMENT` property in SQL?
+36. How do you use the `LIKE` operator for pattern matching?
+37. How do you delete records from a table?
+38. What are `data types` in SQL and why are they important?
+39. How do you use `CASE` statements in SQL?
+40. What is a `foreign key` and how does it work?
+41. How can you enforce referential integrity in SQL?
+42. What is `denormalization` and when is it used?
+43. How do you use `GROUP_CONCAT` (or similar functions) to aggregate data?
+44. What is the `DISTINCT` keyword and how is it used?
+45. How do you perform complex joins with multiple tables?
+46. What are `window functions` in SQL and how do you use them?
+47. How do you handle duplicate records in SQL?
+48. What is a `schema` in SQL?
+49. How do you perform a `full outer join` in SQL?
+50. What are `stored functions` and how do they differ from stored procedures?
